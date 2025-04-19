@@ -1,4 +1,5 @@
-# Application Development 2 Midterm Project – Building a CRUD HTTP Server Using the File System Module
+# Application Development 2 Midterm Project
+Building a CRUD HTTP Server Using the File System Module
 
 ## 👤 Student Info
 **Name:** Jasmine Manansala 
